@@ -27,15 +27,18 @@ namespace KafkaNetProducer
             var router = new BrokerRouter(options);
             var client = new Producer(router);
             Console.WriteLine($"=== Apache Kafka ===");
-            Console.WriteLine($"Send some message:\n");
+            string message = "Test msg";
+            if (args != null && args.Length > 0)
+            {
+                message = args[0];
+            }
             long i = 0;
             for (;;)
             {
                 Thread.Sleep(1000);
-                //string userMsg = Console.ReadLine();
-                Message msg = new Message($"Message: {i}");
+                Message msg = new Message($"Message: {i}. {message}");
                 client.SendMessageAsync(topic, new List<Message> { msg }).Wait();
-                Console.WriteLine($"{i}: Message sent do Kafka");
+                Console.WriteLine($"Message: {i}.   {message}");
                 i++;
             }
         }
