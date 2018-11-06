@@ -1,0 +1,9 @@
+C:\Users\Boguslaw\Source\Repos\KafkaNetProducer\KafkaNetProducer\bin\Debug\KafkaNetProducer.exe.config
+C:\Users\Boguslaw\Source\Repos\KafkaNetProducer\KafkaNetProducer\bin\Debug\KafkaNetProducer.exe
+C:\Users\Boguslaw\Source\Repos\KafkaNetProducer\KafkaNetProducer\bin\Debug\KafkaNetProducer.pdb
+C:\Users\Boguslaw\Source\Repos\KafkaNetProducer\KafkaNetProducer\bin\Debug\kafka-net.dll
+C:\Users\Boguslaw\Source\Repos\KafkaNetProducer\KafkaNetProducer\obj\Debug\KafkaNetProducer.csprojAssemblyReference.cache
+C:\Users\Boguslaw\Source\Repos\KafkaNetProducer\KafkaNetProducer\obj\Debug\KafkaNetProducer.csproj.CoreCompileInputs.cache
+C:\Users\Boguslaw\Source\Repos\KafkaNetProducer\KafkaNetProducer\obj\Debug\KafkaNetProducer.csproj.CopyComplete
+C:\Users\Boguslaw\Source\Repos\KafkaNetProducer\KafkaNetProducer\obj\Debug\KafkaNetProducer.exe
+C:\Users\Boguslaw\Source\Repos\KafkaNetProducer\KafkaNetProducer\obj\Debug\KafkaNetProducer.pdb
